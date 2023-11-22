@@ -41,7 +41,7 @@ Licença
 Este projeto está licenciado sob a Licença MIT .
 
 Contato
-Para dúvidas ou sugestões, fique à vontade para abrir um problema ou entrar em contato pelo e-mail: your.email@gmail.com .
+Para dúvidas ou sugestões, fique à vontade para abrir um problema ou entrar em contato pelo e-mail: paulowear@gmail.com .
 
 Obrigado por contribuir para o desenvolvimento do Pokédex do Desenvolvedor JavaScript! 🚀
 
